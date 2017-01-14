@@ -1,0 +1,20 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+p{
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
